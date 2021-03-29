@@ -19,7 +19,7 @@ const menu = [
          {
             value: 0,
             name:`${'0-'.blue } Salir`
-        },
+        }
         
 
         
