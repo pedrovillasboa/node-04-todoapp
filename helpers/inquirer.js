@@ -58,10 +58,7 @@ const inquirerInput = async( message )=>{
 }
 
 module.exports = {
+    inquirerInput,
     inquirerMenu
-    
 
-}
-module.exports = {
-    inquirerInput
 }
